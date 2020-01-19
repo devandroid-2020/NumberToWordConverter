@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Number to Word Converter</string>
+    <string name="action_settings">Settings</string>
+    <string name="convert">Convert</string>
+    <string name="clear_number">Clear number</string>
+    <string name="enter_number">Please enter number from 1 up to 999999</string>
+
+    <string name="blank" />
+    <string name="one">one</string>
+    <string name="Two">Two</string>
+    <string name="Three">Three</string>
+    <string name="Four">Four</string>
+    <string name="Five">Five</string>
+    <string name="Six">Six</string>
+    <string name="Seven">Seven</string>
+    <string name="Eight">Eight</string>
+    <string name="Nine">Nine</string>
+    <string name="Ten">Ten</string>
+    <string name="Eleven">Eleven</string>
+    <string name="Twelve">Twelve</string>
+    <string name="Thirteen">Thirteen</string>
+    <string name="Fourteen">Fourteen</string>
+    <string name="Fifteen">Fifteen</string>
+    <string name="Sixteen">Sixteen</string>
+    <string name="Seventeen">Seventeen</string>
+    <string name="Eighteen">Eighteen</string>
+    <string name="Nineteen">Nineteen</string>
+    <string name="Twenty">Twenty</string>
+    <string name="Thirty">Thirty</string>
+    <string name="Forty">Forty</string>
+    <string name="Fifty">Fifty</string>
+    <string name="Sixty">Sixty</string>
+    <string name="Seventy">Seventy</string>
+    <string name="Eighty">Eighty</string>
+    <string name="Ninety">Ninety</string>
+    <string name="please_enter_number">Please enter number</string>
+
+    <!-- asset allocation -->
+    <string-array name="words_name">
+        <item>@string/one</item>
+        <item>@string/Two</item>
+        <item>@string/Three</item>
+        <item>@string/Four</item>
+        <item>@string/Five</item>
+        <item>@string/Six</item>
+        <item>@string/Seven</item>
+        <item>@string/Eight</item>
+        <item>@string/Nine</item>
+        <item>@string/Ten</item>
+        <item>@string/Eleven</item>
+        <item>@string/Twelve</item>
+        <item>@string/Thirteen</item>
+        <item>@string/Fourteen</item>
+        <item>@string/Fifteen</item>
+        <item>@string/Sixteen</item>
+        <item>@string/Seventeen</item>
+        <item>@string/Eighteen</item>
+        <item>@string/Nineteen</item>
+        <item>@string/Twenty</item>
+        <item>@string/Thirty</item>
+        <item>@string/Forty</item>
+        <item>@string/Fifty</item>
+        <item>@string/Sixty</item>
+        <item>@string/Seventy</item>
+        <item>@string/Eighty</item>
+        <item>@string/Ninety</item>
+
+    </string-array>
+
+</resources>
